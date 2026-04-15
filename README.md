@@ -14,9 +14,10 @@ Tableau as a BI(Business Intelligence) tool is the major skill demand highlighte
 - Filters were used to explore job roles, skills, and levels dynamically.
 
 # Question 1
-** Are Companies targeting specific roles, experience or skills?
+Are Companies targeting specific roles, experience or skills?
 
-- <img width="1005" height="521" alt="image" src="https://github.com/user-attachments/assets/1a82d86b-33de-408a-aa4f-90d5848a4be8" />
+<img width="1011" height="520" alt="image" src="https://github.com/user-attachments/assets/ade0f395-c05e-45e0-be74-73339e4de174" />
+
 
 
 - Certain companies consistently hire for specific job levels (e.g., mid-senior roles)
@@ -28,7 +29,8 @@ Tableau as a BI(Business Intelligence) tool is the major skill demand highlighte
 # Question 2
 ** Does the number of required skills affect salary?
 
-<img width="1006" height="518" alt="image" src="https://github.com/user-attachments/assets/84c32242-ec6d-40ee-8576-8fd944010dbc" />
+<img width="1164" height="517" alt="image" src="https://github.com/user-attachments/assets/8a3b3c70-ad77-4a11-9c1c-e2e1adcbca42" />
+
 
 - Roles requiring a broader set of skills tend to show higher salary ranges
 - However, the relationship is not strictly linear—specialized skills may outweigh quantity
