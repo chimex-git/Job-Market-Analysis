@@ -4,7 +4,7 @@
 
 This project analyzes job market data for data-related roles to understand patterns in hiring, salary distribution, skill demand, and experience requirements.
 
-Tableau as a BI(Business Intelligence) tool is the major skill demand highlighted among other required skills required needed for the fully fledged the data roles. The dashboard was built using Tableau and focuses on uncovering insights that can guide job seekers in this field, recruiters, and also organizations.
+Tableau as a BI(Business Intelligence) tool is the major skill demand highlighted among other required skills needed for the fully fledged data roles. The dashboard was built using Tableau and focuses on uncovering insights that can guide job seekers in this field, recruiters, and also organizations.
 
 # ⚙️ Methodology
 
@@ -20,14 +20,14 @@ Are Companies targeting specific roles, experience or skills?
 
 
 
-- Certain companies consistently hire for specific job levels (e.g., mid-senior roles)
+- Certain companies consistently hire for specific job levels (e.g. mid-senior roles)
 - Data-focused roles like Data Engineer and Data Scientist dominate hiring trends
 - Skill filtering shows that companies prioritize specific tools depending on role specialization
 
 👉 Insight: Hiring is not uniform across companies because they strategically target roles and skills aligned with their technical needs. Therefore this points out a neccesity one needs to check on before clicking on any job opening.
 
 # Question 2
-** Does the number of required skills affect salary?
+Does the number of required skills affect salary?
 
 <img width="1164" height="517" alt="image" src="https://github.com/user-attachments/assets/8a3b3c70-ad77-4a11-9c1c-e2e1adcbca42" />
 
@@ -38,7 +38,7 @@ Are Companies targeting specific roles, experience or skills?
 👉 Insight: Salary is influenced more by the relevance and specialization of skills than just the number of skills listed.
 
 # Question 3
-** Is there a minimum expected experience level for certain roles or skills?
+Is there a minimum expected experience level for certain roles or skills?
 
  <img width="1165" height="511" alt="image" src="https://github.com/user-attachments/assets/b92df5cd-da59-4ca8-b739-77b42f2f1444" />
 
@@ -50,7 +50,7 @@ Are Companies targeting specific roles, experience or skills?
 👉 Insight: There is a clear baseline expectation for each job level, explaining the fact of a structured career progression.
 
 # Question 4
-** How do job postings trend over time across data roles?
+How do job postings trend over time across data roles?
 
 <img width="1171" height="522" alt="image" src="https://github.com/user-attachments/assets/6a973c6a-d9e0-43b6-910e-0162b28b224d" />
 
