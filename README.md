@@ -56,7 +56,7 @@ How do job postings trend over time across data roles?
 
 - Job postings fluctuate throughout the year, showing clear periods of growth and decline
 - There is a noticeable peak around mid-year (June–July), indicating increased hiring activity
-- A decline is observed towards the later months (e.g., November), followed by an uprising in December
+- A decline is observed towards the later months (e.g November), followed by an uprising in December
 - Data Analyst roles consistently contribute the largest share of postings across all months
 - Other roles such as Data Engineer and Data Scientist show smaller but steady contributions
 
@@ -67,7 +67,7 @@ suggests that they are foundational across industries. The variability in total 
 
 
 # In conclusion: 
-- Job seekers for data-related rolesshould focus on acquiring specialized, high-demand skills rather than a broad but shallow skill set
+- Job seekers for data-related roles should focus on acquiring specialized, high-demand skills rather than a broad but shallow skill set
 - Entry-level candidates should differentiate themselves through practical projects or certifications
 - Companies can improve hiring efficiency by incorporating skill-based assessments
 - Providing feedback to candidates can enhance applicant experience in highly competitive roles after they must have written the skill-based assessments.
